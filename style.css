@@ -21,7 +21,7 @@ body {
 } */
 
 .banner {
-    background-color: #31A68A;
+    background-color: #8ebac7;
     padding: 10px;
     margin-top: 30px;
     
@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-    color: #31A68A;
+    color: #8ebac7;
     font-size: 18px
 }
 
@@ -54,7 +54,7 @@ header {
 }
 
 #header-contact {
-    background-color: #31A68A;
+    background-color: #8ebac7;
     padding: 5px 5px 20px 20px;
     max-width: 180px;
 }
@@ -65,7 +65,7 @@ header {
 }
 
 #header-contact a:hover {
-    color: #1e6554;
+    color: #8ebac7;
 }
 
 #header-contact i {
@@ -79,7 +79,7 @@ p {
 }
 
 .highlight {
-    color: #31A68A;
+    color: #8ebac7;
     font-weight: bold;
 }
 
@@ -126,7 +126,7 @@ ul {
 
 ul li::before {
     content: "\2022";
-    color: #31A68A;
+    color: #8ebac7;
     font-weight: bold; /* If you want it to be bold */
     display: inline-block; /* Needed to add space between the bullet and the text */
     width: 1em; /* Also needed for space (tweak if needed) */
@@ -143,7 +143,7 @@ main {
 }
 
 .link-btn {
-    background-color: #31A68A;
+    background-color: #8ebac7;
     padding: 10px;
     margin: 5px;
     margin-top: 40px;
@@ -152,6 +152,6 @@ main {
 }
 
 .link-btn:hover {
-    background-color: #1e6554;
+    background-color: #8ebac7;
     color: white;
 }
